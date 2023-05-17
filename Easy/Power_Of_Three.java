@@ -1,7 +1,7 @@
 //Question No: 326
 package Easy;
 
-public class Power_Of_Two {
+public class Power_Of_Three {
     public boolean isPowerOfTwo(int n) {
         if(n==0) return false;
         else {
